@@ -1,0 +1,249 @@
+.body2 {
+    width: 100%;
+    min-width: 450px;
+    max-width: 500px;
+    font-family: 'Open Sans';
+    font-size: 1.2rem;
+    color: #393d41;
+    line-height: 1.65;
+}
+
+#heading {
+    _font-family: 'Montserrat (bold)';
+    color: #25a2c3;
+    line-height: 1;
+    text-align: center;
+    letter-spacing: 1.2px;
+    padding-top: 3vw;
+    margin-top: 0;
+}
+
+header {
+    background-color: black;
+    width: 100%;
+    height: 8vw;
+    text-align: center;
+}
+
+header img {
+    width: 52%;
+    height: 45%;
+    padding: 20px 30px;
+    margin: 0;
+}
+
+.partiamo {
+    text-align: center;
+    background-image: url(../images/banner.jpg);
+    min-height: 450px;
+    letter-spacing: 1.5px;
+}
+
+.button2 {
+    width: 130px;
+    height: 40px;
+    background-color: #f04c2f;
+    color: white;
+    _font-family: 'Montserrat (bold)';
+    font-size: 0.8em;
+    font-weight: bold;
+    letter-spacing: 0.7px;
+    text-align: center;
+    border: hidden;
+    border-radius: 3px;
+}
+
+.h4 {
+    color: #25a2c3;
+    letter-spacing: 0.7px;
+}
+
+#blocco1 {
+    text-align: center;
+    padding: 20px 10px 15px 10px;
+    margin: 0;
+}
+#blocco1 p {
+    padding: 0 20px 0 20px;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+}
+
+#blocco2 {
+    text-align: center;
+    padding: 10px 10px 20px 10px;
+}
+
+#blocco2 h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#blocco2 p {
+    padding: 0 25px 0 25px;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+}
+
+#blocco3 img {
+    width: 320px;
+    height: 320px;
+    align-content: end;
+    border-radius: 50%;
+    border: hidden;
+    padding-top: 15px;
+    margin: 0 30px 0 80px;
+}
+#blocco4 {
+    text-align: center;
+    margin: 20px 20px 0 20px;
+}
+#blocco4 p {
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+    margin-bottom: 20px;
+}
+#blocco5 {
+    text-align: center;
+    margin: 0 20px 0 20px;
+}
+#blocco5 p {
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+    margin-bottom: 20px;
+}
+.testimonianze {
+    width: 100%;
+    height: 210px;
+    color: white;
+    background-color: #e22d0e;
+    text-align: center;
+    padding: 50px 0 50px 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+#testimonianza {
+    font-size: 2em;
+    letter-spacing: 1px;
+    margin-top: 0;
+}
+.p1 {
+
+    font-style: italic;
+    word-spacing: 1.5px;
+    letter-spacing: 1px;
+}
+.p2 {
+    font-size: 1em;
+}
+#scheda1 {
+    margin: 40px 0 20px 0;
+    border: 2px solid #dee1e3;
+}
+
+#scheda1 img {
+    width: 100%;
+    height: 300px;
+    margin: 0 20px 0 0;
+}
+#scheda1 h4 {
+    text-align: center;
+    margin-top: 10px;
+}
+#scheda1 p {
+    text-align: center;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+}
+#scheda2 {
+    margin: 20px 0 30px 0;;
+    border: 2px solid #dee1e3;
+}
+
+#scheda2 img {
+    width: 100%;
+    height: 300px;
+    margin: 0 20px 0 0;
+}
+#scheda2 h4 {
+    text-align: center;
+    margin-top: 10px;
+}
+#scheda2 p {
+    text-align: center;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+}
+#scheda3 {
+    margin: 20px 0 30px 0;;
+    border: 2px solid #dee1e3;
+}
+
+#scheda3 img {
+    width: 100%;
+    height: 300px;
+    margin: 0 20px 0 0;
+}
+#scheda3 h4 {
+    text-align: center;
+    margin-top: 10px;
+}
+#scheda3 p {
+    text-align: center;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+}
+.footer {
+    background-color: #25a2c3;
+    text-align: center;
+    width: 100%;
+    height: 350px;
+    padding-top: 30px;
+
+}
+
+#footerheading {
+    font-size: 2em;
+    letter-spacing: 1px;
+    text-align: center;
+    color: white;
+}
+.footer section {
+    width: 90%;
+    color: #c8e7f0;
+    text-align: center;
+    margin: auto;
+}
+.footer p {
+    margin: 0;
+}
+.abc {
+    color: inherit;
+}
+.f1 {
+    color: #c8e7f0
+}
+.fa-solid {
+    color: #25a2c3;
+    border: 2px solid #c8e7f0;
+    background-color: #c8e7f0;
+    text-align: center;
+    padding: 2.5px;
+    border-radius: 5px;
+}
+.phone {
+    padding: 3px;
+    text-align: center;
+    _letter-spacing: 1px;
+}
+.letter {
+    padding: 3px 40px 3px 10px;
+    text-align: center;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+.paper {
+    padding: 3px;
+    text-align: center;
+    word-spacing: 1.2px;
+    letter-spacing: 1px;
+}
